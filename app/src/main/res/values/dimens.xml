@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_ancho">64dp</dimen>
+    <dimen name="dim_separacion">8dp</dimen>
+    <dimen name="dim_absolutoX">318dp</dimen>
+</resources>

@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">App3LayoutExperimet</string>
+    <string name="valor_boton_1">1</string>
+    <string name="valor_boton_2">2</string>
+    <string name="valor_boton_3">3</string>
+    <string name="valor_boton_4">4</string>
+    <string name="valor_boton_5">5</string>
+    <string name="valor_boton_6">6</string>
+    <string name="valor_boton_7">7</string>
+    <string name="valor_boton_8">8</string>
+    <string name="valor_boton_9">9</string>
+    <string name="valor_boton_sumar">+</string>
+    <string name="valor_boton_restar">-</string>
+    <string name="valor_boton_multiplicar">*</string>
+    <string name="valor_boton_dividir">/</string>
+    <string name="valor_boton_cero">C</string>
+    <string name="valor_boton_coma">,</string>
+    <string name="valor_boton_retorno">R</string>
 </resources>
